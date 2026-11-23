@@ -1,5 +1,9 @@
 # ✈️ Flutter Travel App
 
+<p align="center"><img src="docs/preview.svg" alt="App preview" width="100%"></p>
+
+<sub>Preview: design illustration of the screens, in the light theme. Run the app to see the real thing.</sub>
+
 A free Flutter template for a travel booking app: explore destinations with search and filters, a detail page with hero transition, a booking flow with date range, guests and room type, saved places and your trips. Material 3, light and dark themes, **no third-party packages**.
 
 ## Features
